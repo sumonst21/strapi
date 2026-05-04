@@ -24,13 +24,13 @@
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "grant-koa": "^4.2.0",
-    "jsonwebtoken": "^8.1.0",
+    "jsonwebtoken": "^9.0.3",
     "koa": "^2.1.0",
     "koa2-ratelimit": "^0.6.1",
     "purest": "^2.0.1",
     "request": "^2.83.0",
     "strapi-utils": "3.0.0-alpha.18",
-    "uuid": "^3.1.0"
+    "uuid": "^14.0.0"
   },
   "devDependencies": {
     "strapi-helper-plugin": "3.0.0-alpha.18"
