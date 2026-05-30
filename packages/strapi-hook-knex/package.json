@@ -16,7 +16,7 @@
   },
   "main": "./lib",
   "dependencies": {
-    "knex": "^0.13.0",
+    "knex": "^3.2.10",
     "lodash": "^4.17.5"
   },
   "author": {
